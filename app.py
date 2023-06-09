@@ -6,7 +6,7 @@ from streamlit_option_menu import option_menu
 import calendar
 from datetime import datetime
 
-import database as db
+import db
 
 #variables
 incomes = ["Salary","Blog","Other Income"]
